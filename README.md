@@ -2,7 +2,6 @@
 
 # Assignment 1
 
-# Usage 
 ## command line prompt to run requirements.txt
 pip freeze>requirements.txt
 
